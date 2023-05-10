@@ -1,3 +1,5 @@
+SC MILIK SANSEKAI LISENCE
+
 # Wa-OpenAI
 
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
